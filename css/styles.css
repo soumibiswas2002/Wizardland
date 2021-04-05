@@ -1,0 +1,47 @@
+/**********TAG SELECTOR*********/
+body{
+  background-color: #433520;
+}
+h1{
+  color: white;
+}
+h2{
+  color: #f3f4ed;
+  font-style: chiller;
+  font-size: 40px;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color:grey;
+  border-width:5px;
+  width:5%;
+}
+ul{
+  color: #f3f4ed;
+}
+
+/*
+h3{
+  color: grey;
+  font-style:bold;
+  font: arial;
+}
+*/
+/**********CLASS SELECTOR*********/
+.harryfont{
+  align : center;
+}
+.hpimg{
+  align : center;
+}
+.circular{
+  border-radius: 100;
+}
+.express{
+  align : center;
+}
+/**********ID SELECTOR*********/
+#heading{
+  color: #5b8a72;
+}
